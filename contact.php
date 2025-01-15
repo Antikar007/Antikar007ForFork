@@ -20,7 +20,12 @@
 				<li><a href="contact123.php">ติดต่อ</li>
 =======
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
+
+				<li><a href="contact123.php">ติดต่อช่อง1</li>
+				<li><a href="contact123.php">รายละเอียด</li>
+=======
 				<li><a href="contact123.php">ติดต่อช่อสง1</li>
+
 
 				</ul><p>
 				<?php include "login_form.php";?>
