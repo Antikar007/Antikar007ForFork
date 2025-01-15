@@ -16,6 +16,10 @@
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 
+				<li><a herf="guest.php">สมุดเยี่ยม</li>
+				<li><a href="contact123.php">ติดต่อ123</li>
+=======
+
 				<li><a herf="guest.php">สมุดเยี่ยม4444</li>
 				<li><a href="contact123.php">ติดต่อ</li>
 =======
@@ -25,6 +29,7 @@
 				<li><a href="contact123.php">รายละเอียด</li>
 =======
 				<li><a href="contact123.php">ติดต่อช่อสง1</li>
+
 
 
 				</ul><p>
